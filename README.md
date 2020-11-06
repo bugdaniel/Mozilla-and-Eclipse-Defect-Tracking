@@ -18,6 +18,7 @@ This project was part of a seminar on Business Analytics in the fall semester 20
 
 ![Approach image](Approach.png)
 
+
 ## Files contained in project folder:
 - Read.py : a file written in Python importing and cleaning the data
 - ExploratoryRead.py and ExploratoryLogit.r : files written respectively in Python and R which explores the structure of the data

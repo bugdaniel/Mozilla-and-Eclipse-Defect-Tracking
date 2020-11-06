@@ -22,6 +22,7 @@ This project was part of a seminar on Business Analytics in the fall semester 20
 - Read.py : a file written in Python importing and cleaning the data
 - ExploratoryRead.py and ExploratoryLogit.r : files written respectively in Python and R which explores the structure of the data
 - PredBugFixes.r : a file written in R in which we tested the best predictive models based on our exploratory analysis
+- Presentation.pdf : a PDF presentation to explain our work for the professor
 
 
 

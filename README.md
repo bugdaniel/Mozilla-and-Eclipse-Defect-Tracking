@@ -4,7 +4,7 @@
 This project was part of a seminar on Business Analytics in the fall semester 2015 at the University of Zurich instructed by [Prof. Harry Paarsch](https://sites.google.com/site/hjpaarsch/). The work was done in collaboration with *Luca Gageauf*.
 
 ## Dataset:
-[Eclipse and Mozilla Defect Tracking Dataset](https://github.com/ansymo/msr2013-bug_dataset): 
+[Eclipse and Mozilla Defect Tracking Dataset](https://github.com/ansymo/msr2013-bug_dataset): "a dataset with over 200.000 reported bugs extracted from the Eclipse and Mozilla projects"
 
 ## Goal and motivation
 - identify the factors which are likely to be predictive of a bug being fixed
